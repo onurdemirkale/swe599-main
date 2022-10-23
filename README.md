@@ -10,4 +10,4 @@ The React application repository can be found [here](https://github.com/onurdemi
 
 The AWS Lambda services repository can be found [here](https://github.com/onurdemirkale/swe599-backend).
 
-Please view the Wiki here for project documentation.
+Please view the Wiki [here](https://github.com/onurdemirkale/swe599-main/wiki) for project documentation.
