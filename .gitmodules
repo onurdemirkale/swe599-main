@@ -1,3 +1,6 @@
 [submodule "swe599-web"]
 	path = swe599-web
 	url = https://github.com/onurdemirkale/swe599-web
+[submodule "swe599-backend"]
+	path = swe599-backend
+	url = https://github.com/onurdemirkale/swe599-backend
